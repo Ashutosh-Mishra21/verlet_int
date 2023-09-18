@@ -9,16 +9,16 @@ This Python script demonstrates a simple 2D physics playground using the Pygame 
 - [Usage]
 - [Controls]
 - [License]
-- [Requirements]
+# Requirements
 To run this code, you need the following:
 
-Python 3.x
-Pygame library (installed via pip)
+- [Python 3.x]
+- [Pygame library (installed via pip)]
 
 # Installation
-First, make sure you have Python installed. You can download it from the official Python website: python.org.
+- [First, make sure you have Python installed. You can download it from the official Python website: python.org.]
 
-Install the Pygame library using pip:
+- [Install the Pygame library using ```pip```:]
 
 ```
 pip install pygame
