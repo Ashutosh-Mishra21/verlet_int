@@ -1,5 +1,3 @@
-README file for your Python code that creates a 2D physics simulation using the Pygame library:
-
 2D Physics Playground with Pygame
 This Python script demonstrates a simple 2D physics playground using the Pygame library. It allows you to create particles that interact with gravity and a movable rectangle, providing a basic physics simulation environment.
 
